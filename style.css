@@ -49,6 +49,10 @@ header{
 	width:50px;
 	float:left;
 }
+.logo1{
+	width:50px;
+	
+}
 .header-osnov{
 	width:95%;
 	float:left;
@@ -213,6 +217,9 @@ footer a:hover{
 		width:100%;
 		text-align:center;
 		margin-bottom:10px;
+	}
+	.left{
+		text-align:center;
 	}
 	
 }
