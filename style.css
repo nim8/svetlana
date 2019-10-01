@@ -71,6 +71,10 @@ header{
 	float:left;
 	text-align:right;
 }
+.foto-profil{
+	width:70%;
+	margin-left:30%;
+}
 
 /*Стили для основной части*/
 
@@ -204,6 +208,10 @@ footer a:hover{
 	width:100%;
 	margin-top:40px;
 	text-align:left;
+	}
+	.foto-profil{
+	width:80%;
+	margin-left:10%;
 	}
 
 }
